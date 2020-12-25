@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "854999241032",
+    "project_id": "eshop-4d8b8",
+    "storage_bucket": "eshop-4d8b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854999241032:android:721df38f59d0867b4a237d",
+        "android_client_info": {
+          "package_name": "com.aziz.eshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854999241032-pq494kommiotcpio8hvvfh9rvqtlrett.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfMYERNRJk3gXJG2I6mRRl-noJ4HuNzqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854999241032-pq494kommiotcpio8hvvfh9rvqtlrett.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
